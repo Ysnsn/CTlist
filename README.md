@@ -227,3 +227,5 @@ Usage of CTList:
 # 参数: Base64=<IMAGE_BASE64_CODE>&Type=CTCloud
 # 返回: 状态码:200, 显示识别结果. 状态码:404, 识别错误或结果不符合预设规则, 显示为空.
 ```
+# 如果觉得好用的话请给个star
+
